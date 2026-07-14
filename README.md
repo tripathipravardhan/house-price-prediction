@@ -53,4 +53,4 @@ Using an 80% training and 20% testing split, this model achieved approximately:
 - 
 - ## Model Output
 
-![Actual vs Predicted House Prices](images/model-results.png)
+![Actual vs Predicted House Prices](images/images/model-results.png)
