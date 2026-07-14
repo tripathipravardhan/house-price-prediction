@@ -1,0 +1,8 @@
+# Downloaded Kaggle files are not needed in the GitHub repository.
+house-prices-advanced-regression-techniques/
+*.zip
+
+# Python-generated files
+__pycache__/
+*.pyc
+.venv/
