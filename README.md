@@ -49,3 +49,8 @@ Using an 80% training and 20% testing split, this model achieved approximately:
 - pandas
 - scikit-learn
 - matplotlib
+
+- 
+- ## Model Output
+
+![Actual vs Predicted House Prices](images/images/model-results.png)
